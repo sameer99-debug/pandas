@@ -1,1 +1,1 @@
-venv/ Lib/ Scripts/ Include/ __pycache__/ *.pyc *.pyo .DS_Store
+venv/ Lib/ Data/ Scripts/ Include/ __pycache__/ *.pyc *.pyo .DS_Store
