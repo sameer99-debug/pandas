@@ -1,7 +1,7 @@
 # Pandas Python Project
 
 ## Factory Sensor Data Analysis
-•	Data cleaning, transformation, and analysis using CSV data.<br/>
-•	Pivot tables, resampling, rolling statistics.<br/>
-•	Detecting anomalies, identifying unusual patterns, and calculating OEE.<br/>
-•	Aggregation and reporting.<br/>
+- Data cleaning, transformation, and analysis using CSV data  
+- Pivot tables, resampling, rolling statistics  
+- Detecting anomalies, identifying unusual patterns, and calculating OEE  
+- Aggregation and reporting
