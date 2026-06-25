@@ -1,4 +1,4 @@
-# Pandas Python Projects
+# Pandas Python Project
 
 ## Factory Sensor Data Analysis
 •	Data cleaning, transformation, and analysis using CSV data.<br/>
